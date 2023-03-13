@@ -2,6 +2,8 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-2zvcxt)
 
+[Ofetch](https://github.com/unjs/ofetch)
+
 ## Description
 
 Dans cet exemple, une instance custom de `ofetch` est créée dans le dossier `/utils`.
