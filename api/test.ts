@@ -1,0 +1,1 @@
+export default defineEventHandler(() => "response from API")
