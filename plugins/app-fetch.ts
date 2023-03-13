@@ -1,4 +1,4 @@
-import { appFetch } from "../utils/app-fetch"
+import { appFetch } from "../utils"
 
 export default defineNuxtPlugin(() => {
   return {
