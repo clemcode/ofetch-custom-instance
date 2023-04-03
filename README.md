@@ -6,10 +6,10 @@
 
 ## Description
 
-Dans cet exemple, une instance custom de `ofetch` est créée dans le dossier `/utils`.
+In this example, a custom instance of `ofetch` is created in the `/utils` directory.
 
-Cette instance est mise à disposition dans le contexte de l'application :
+This instance is made available in the application context :
 
-- via le plugin `~/plugins/app-fetch.ts` (`const { $appFetch } = useNuxtApp()`)
+- through the plugin `~/plugins/app-fetch.ts` (`const { $appFetch } = useNuxtApp()`)
 
-- via la composable `useAppFetch`.
+- through the composable `useAppFetch`.
